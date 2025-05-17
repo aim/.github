@@ -1,4 +1,4 @@
-We are building a community through technology products and services based on open standards, with a focus on stability and simplicity.
+We are building a community through technology products and services based on open standards, with a focus on simplicity and stability.
 
 - foundation: A full-stack all-in-one JavaScript framework.
 - documentation: A docs static website for foundation.
