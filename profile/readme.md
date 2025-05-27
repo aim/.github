@@ -2,5 +2,5 @@
 
 ### Projects
 - **foundation** – A full-stack and all-in-one JavaScript framework.
-- **made-with** – A demo web app showcasing the capabilities of `foundation`.
+- **made-with** – A demo web app showcasing the capabilities of `aim-foundation`.
 - **studio** – A next-gen desktop app for reimagining product design and development.
